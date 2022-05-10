@@ -31,7 +31,7 @@ public class sort {
             }
 
         }
-
+ 
         System.out.println(new String(Sarr));
 
     }
